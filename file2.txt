@@ -1,0 +1,2 @@
+yum handles package dependencies automatically, ensuring that all required 
+dependencies are installed along with the requested package.
