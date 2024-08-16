@@ -1,0 +1,3 @@
+yum retrieves packages from repositories configured on your system. 
+These repositories are defined in configuration files usually located in 
+/etc/yum.repos.d/.
